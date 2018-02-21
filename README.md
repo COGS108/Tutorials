@@ -4,7 +4,7 @@ This repository is a set of tutorials for Hands-On Data Science. It is used to r
 
 ### Approach / Background
 
-These tutorials are designed to be a minimal introduction to what you need to know to get working with data science, and starting with projects. They cover the hands-on, coding components of the material. Conceptual and background material is covered in the [https://github.com/COGS108/Lectures](Lectures). Practice with these ideas is done through the [https://github.com/COGS108/Assignments](Assignments) as well as materials for doing [https://github.com/COGS108/Projects](Projects).
+These tutorials are designed to be a minimal introduction to what you need to know to get working with data science, and starting with projects. They cover the hands-on, coding components of the material. Conceptual and background material is covered in the [Lectures](https://github.com/COGS108/Lectures). Practice with these ideas is done through the [Assignments](https://github.com/COGS108/Assignments) as well as materials for doing [Projects](https://github.com/COGS108/Projects).
 
 These tutorials also try to interface with the vast world of existing tutorials, materials, and documentation. They are explicitly designed to give a quick introduction to a topic of interest, and then link out to more comprehensive resources.
 
