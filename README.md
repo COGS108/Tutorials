@@ -1,6 +1,7 @@
 # Tutorials
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/COGS108/Tutorials/master)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This repository is a set of tutorials for Hands-On Data Science. It is used to run along with the UC San Diego course COGS108 - [Data Science in Practice](https://github.com/COGS108/Overview). These tutorials presume some knowledge of the Python programming language. 
 
